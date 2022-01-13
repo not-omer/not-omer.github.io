@@ -1,6 +1,12 @@
 @import url(fontawesome-all.min.css);
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300");
 
+.cover {
+  object-fit: cover;
+  width: 200px;
+  height: 200px;
+}
+
 p {
   text-transform: none;
   font-weight: 580 !important;
